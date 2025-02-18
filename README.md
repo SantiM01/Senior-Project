@@ -10,8 +10,8 @@ As can be seen the data is color coated to better show which portion of the numb
 
 
 
+![column_population_colored](https://github.com/user-attachments/assets/49f4ecf7-1ab6-41a4-9a46-73d565d0b748)
 
-![column_population_colored](https://github.com/user-attachments/assets/cc4a8a64-8882-4318-91e6-70f84217eb4b)
 
 
 
