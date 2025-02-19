@@ -13,9 +13,6 @@ In accordance with this graph, we have created this in regards to the data we ha
 This graph is the exact same information as the graph above, but we have color coded it in order to show what data type each field in our data is used as. This will allow us to be better able to differenciate what we may have to do with each field. 
 
 
-
-
-
 ![td_int_ratios_colored_fixed](https://github.com/user-attachments/assets/7bbf1025-cbdd-4139-97ed-98e2edce1167)
 
-
+This bar graph shows each quarterback in the 2019 season and their touchdown to interception ratio. As we can see it does go in order from largest to lowest ratio of touchdowns to interceptions. As we reach the bottom, we can see that there are a few players that have a 0 ratio. This occurred because the ratio for either touchdown or interception happened 0 times. 
