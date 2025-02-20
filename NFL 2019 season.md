@@ -1,7 +1,7 @@
 #NFL 2019 season
 
 # Quarterback playes color coded by Passing or rushing. 
-![pass_rush_chart](https://github.com/user-attachments/assets/09a679c4-33bc-46fc-b826-5f425d171e9a)
+![pass_rush_chart](https://github.com/user-attachments/assets/77c44596-eb1a-444f-aa56-256ab2442d6a)
 
 For the purposes of this graph, the intent was to visualize the number of plays made by each quarterback during the 2019 season of the NFL.
 As can be seen the data is color coated to better show which portion of the number of plays made by a specifc player fall into the rushing or passing column. 
@@ -16,3 +16,7 @@ This graph is the exact same information as the graph above, but we have color c
 ![td_int_ratios_colored_fixed](https://github.com/user-attachments/assets/7bbf1025-cbdd-4139-97ed-98e2edce1167)
 
 This bar graph shows each quarterback in the 2019 season and their touchdown to interception ratio. As we can see it does go in order from largest to lowest ratio of touchdowns to interceptions. As we reach the bottom, we can see that there are a few players that have a 0 ratio. This occurred because the ratio for either touchdown or interception happened 0 times. 
+
+![pass_rush_ration_single_player](https://github.com/user-attachments/assets/ebd25c0a-61a8-47b8-b052-5098dfe8eca6)
+
+![pass_rush_ration_single_player](https://github.com/user-attachments/assets/55e6b71a-264c-4c02-8cab-a84ca7311417)
