@@ -19,4 +19,4 @@ This bar graph shows each quarterback in the 2019 season and their touchdown to 
 
 ![pass_rush_ration_single_player](https://github.com/user-attachments/assets/ebd25c0a-61a8-47b8-b052-5098dfe8eca6)
 
-![pass_rush_ration_single_player](https://github.com/user-attachments/assets/55e6b71a-264c-4c02-8cab-a84ca7311417)
+![whole_avg_pass_avg_rush_ratio](https://github.com/user-attachments/assets/7722a350-3b3c-4d0b-af87-d7b1d0c037b1)
