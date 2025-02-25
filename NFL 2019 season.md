@@ -1,6 +1,5 @@
 #NFL 2019 season
 
-# Quarterback playes color coded by Passing or rushing. 
 
 ![column_population](https://github.com/user-attachments/assets/101d2198-5f27-4074-8219-e7b3a984de4a)
 
@@ -10,6 +9,7 @@ In accordance with this graph, we have created this in regards to the data we ha
 
 This graph is the exact same information as the graph above, but we have color coded it in order to show what data type each field in our data is used as. This will allow us to be better able to differenciate what we may have to do with each field. 
 
+## Quarterback playes color coded by Passing or rushing. 
 ![pass_rush_chart](https://github.com/user-attachments/assets/c9098fa0-be17-44ba-a1bb-fec0f12a91e2)
 
 For the purposes of this graph, the intent was to visualize the number of plays made by each quarterback during the 2019 season of the NFL.
