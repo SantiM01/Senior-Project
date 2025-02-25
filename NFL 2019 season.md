@@ -6,7 +6,7 @@
 In accordance with this graph, we have created this in regards to the data we have accumulated based on the 2019 season of the NFL. This shows all the useful data gathered that we can use for our model. As seen on the graph, some of the data points are not as full as others but will still be kept in order to be able to successfully submit enough data for our model to perform correctly.
 
 ## Population of each column in file, color coded based on data types of the column
-![column_population_colored](https://github.com/user-attachments/assets/1e5265c3-a197-4af7-96a0-0a8faf9514cb)
+![column_population_colored](https://github.com/user-attachments/assets/aa140e05-f649-4182-9976-200f2d5c05d6)
 
 This graph is the exact same information as the graph above, but we have color coded it in order to show what data type each field in our data is used as. This will allow us to be better able to differenciate what we may have to do with each field. 
 
