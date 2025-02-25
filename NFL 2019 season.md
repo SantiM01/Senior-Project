@@ -21,7 +21,7 @@ This pie chart shows the correlation percentage for one player and how many time
 ![whole_avg_pass_avg_rush_ratio](https://github.com/user-attachments/assets/58d8c5cf-890f-41a1-9c34-14224e05ec03)
 The pie chart referenced above, shows the average for all players passing plays compared to their rushing plays. During the 2019 season there was a large gap between the passing plays and rushing plays. 
 
-![td_int_ratios_colored_fixed](https://github.com/user-attachments/assets/6bd9802a-221e-4819-a92d-8b740107391e)
+![td_int_ratios_colored_sized](https://github.com/user-attachments/assets/dfdeba6b-cd0f-48ed-a9bb-e32eaf208b2a)
 This bar graph shows each quarterback in the 2019 season and their touchdown to interception ratio. As we can see it does go in order from largest to lowest ratio of touchdowns to interceptions. As we reach the bottom, we can see that there are a few players that have a 0 ratio. This occurred because the ratio for either touchdown or interception happened 0 times. 
 
 
