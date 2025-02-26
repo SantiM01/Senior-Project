@@ -17,7 +17,6 @@ For the purposes of this graph, the intent was to visualize the number of plays 
 As can be seen the data is color coated to better show which portion of the number of plays made by a specifc player fall into the rushing or passing column.
 
 
-
 ## Ratio between the passing and rushing for a single player
 ![pass_rush_ratio_single_player](https://github.com/user-attachments/assets/3a184989-3dbc-4bcb-9cb9-2881171b2633)
 
@@ -46,6 +45,8 @@ This graph shows the overall distribution of passing and rushing plays among QBs
 
 ## Distribution of pass and rush plays as a whole with a differnt look
 ![different_looking_distribution](https://github.com/user-attachments/assets/01a701f7-f8ec-4588-b710-1972a1d19a85)
+
+This graph shows the distribution of total plays for quarterbacks but with a different look. The colors separate different ranges of plays, showing that most quarterbacks have a low number of total plays shown in blue, while fewer QBs accumulate higher play counts shown in both red and green. The green section highlights quarterbacks with heavier workloads, emphasizing the gap between occasional players and those leading their teams.
 
 ## Scatter to show the individual pass plays vs all plays for each player
 ![pass_vs_total_plays_scatter_for_all](https://github.com/user-attachments/assets/c740c2bb-f195-4fe6-b120-cac6db93032f)
