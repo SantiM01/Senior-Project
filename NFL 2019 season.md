@@ -42,6 +42,8 @@ This graph breaks down how much each quarterback passes versus runs, with blue f
 ## distribution of pass and rush plays as a whole
 ![pass_rush_play_distribution](https://github.com/user-attachments/assets/d1f764e1-e092-424c-b14e-1a36c0b1ebe6)
 
+This graph shows the overall distribution of passing and rushing plays among QBs. Most players have a low number of total plays, with rushing plays shown in orange concentrated at the left end, while passing plays in blue extend farther. This suggests that only a few QBs accumulate a high volume of plays, and most rely more on passing than rushing. The steep drop-off in the number of players as total plays increase highlights how only a handful of QBs handle a bigger workload.
+
 ## Distribution of pass and rush plays as a whole with a differnt look
 ![different_looking_distribution](https://github.com/user-attachments/assets/01a701f7-f8ec-4588-b710-1972a1d19a85)
 
