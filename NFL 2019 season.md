@@ -37,6 +37,8 @@ This bar graph shows each quarterback in the 2019 season and their touchdown to 
 ## Normalized quarterback playes color coded by Passing or rushing. 
 ![pass_rush_chart_normalized](https://github.com/user-attachments/assets/3d7cae67-c044-411c-8cfe-7219e7b06f1f)
 
+This graph breaks down how much each quarterback passes versus runs, with blue for passing plays and orange for rushing plays. You can see that most QBs throw way more than they run, but some mix in a decent amount of rushing. A few guys stand out with a lot more orange, showing they rely on their legs more. This makes it easy to spot which QBs are more balanced or lean heavily on passing.
+
 ## distribution of pass and rush plays as a whole
 ![pass_rush_play_distribution](https://github.com/user-attachments/assets/d1f764e1-e092-424c-b14e-1a36c0b1ebe6)
 
