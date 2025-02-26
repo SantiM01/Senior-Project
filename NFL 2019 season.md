@@ -51,6 +51,8 @@ This graph shows the distribution of total plays for quarterbacks but with a dif
 ## Scatter to show the individual pass plays vs all plays for each player
 ![pass_vs_total_plays_scatter_for_all](https://github.com/user-attachments/assets/c740c2bb-f195-4fe6-b120-cac6db93032f)
 
+This scatter plot compares the number of pass plays to the total plays for each quarterback. Most points follow a diagonal trend, showing that the majority of total plays are passing plays, with some exceptions where QBs incorporate more rushing. The quarterbacks with the highest total plays, like Brady and Wilson, are listed at the top right, while those with fewer plays are clustered near the bottom left. This makes it easy to see which QBs are the most active and how much they rely on passing.
+
 ## Scatter to show the individual rush plays vs all plays for each player
 ![rush_vs_total_plays_scatter_for_all](https://github.com/user-attachments/assets/e0f38663-86a6-46a4-8796-2fc787769b08)
 
