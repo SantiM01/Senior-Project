@@ -56,6 +56,8 @@ This scatter plot compares the number of pass plays to the total plays for each 
 ## Scatter to show the individual rush plays vs all plays for each player
 ![rush_vs_total_plays_scatter_for_all](https://github.com/user-attachments/assets/e0f38663-86a6-46a4-8796-2fc787769b08)
 
+This scatter plot compares rushing touchdowns to total plays for each quarterback. Most players are near the bottom, indicating that many QBs have little to no rushing touchdowns. This highlights which quarterbacks are more effective at scoring on the ground versus those who rely mostly on passing or other offensive plays.
+
 ## Overall pass plays vs total plays for single player
 ![passplays_vs_totalplays](https://github.com/user-attachments/assets/f7c64824-5aed-439d-86c5-280b12cc8062)
 
