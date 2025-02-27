@@ -61,6 +61,8 @@ This scatter plot compares rushing touchdowns to total plays for each quarterbac
 ## Overall pass plays vs total plays for single player
 ![passplays_vs_totalplays](https://github.com/user-attachments/assets/f7c64824-5aed-439d-86c5-280b12cc8062)
 
+This graph shows how many times Matt Ryan ran the ball compared to his total plays. The steps mean his rushes happened so often but not consistently. With only about 35 rushes in over 700 plays, it’s clear he mostly passes. You can see when he decided to take off and run throughout the season.
+
 ## Overall rush plays vs total plays for single player
 ![rushplays_vs_totalplays](https://github.com/user-attachments/assets/6a031520-2c1f-4494-adf8-36aedc5e23bb)
 
