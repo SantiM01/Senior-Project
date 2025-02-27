@@ -72,6 +72,8 @@ This graph shows how many times Matt Ryan ran the ball compared to his total pla
 ## A single player pass plays vs their total plays
 ![single_player_passplays_vs_totalplays](https://github.com/user-attachments/assets/2ded17ab-e741-4305-94ba-0e60834c8b75)
 
+This bar chart compares Matt Ryan’s passing plays to his total plays. The two bars are very similar in height, this shows that nearly all of his plays were passes. This tells us that Ryan iprefers to pass first with very few rushing attempts.
+
 ## A single player rush plays vs their total plays
 ![single_player_rushplays_vs_totalplays](https://github.com/user-attachments/assets/ecdcfde4-feca-44e4-a3e4-c6fcc8650829)
 
