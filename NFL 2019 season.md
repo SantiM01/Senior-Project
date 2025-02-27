@@ -61,7 +61,7 @@ This scatter plot compares rushing touchdowns to total plays for each quarterbac
 ## Overall pass plays vs total plays for single player
 ![passplays_vs_totalplays](https://github.com/user-attachments/assets/f7c64824-5aed-439d-86c5-280b12cc8062)
 
-
+This graph shows how many times Matt Ryan threw the ball compared to his total plays. As shown the smooth straight line means he was passing consistently. As you can see the line keeps climbing steadily, this shows that almost all of his plays were passes and confirms what we already know that Ryan does not do a lot of passes. 
 
 ## Overall rush plays vs total plays for single player
 ![rushplays_vs_totalplays](https://github.com/user-attachments/assets/6a031520-2c1f-4494-adf8-36aedc5e23bb)
