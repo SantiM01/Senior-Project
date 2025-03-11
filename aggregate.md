@@ -8,3 +8,10 @@
 
 ![TBrady_correlation_matrix](https://github.com/user-attachments/assets/616c2ec4-a791-4493-9d7a-4c4491948376)
 
+![TBrady_model_1](https://github.com/user-attachments/assets/214df6a3-e63f-4b92-bce0-97d87b29b2f1)
+
+![TBrady_model_2](https://github.com/user-attachments/assets/f669c925-6c41-4e71-a748-5d64530f1b34)
+
+![TBrady_model_3](https://github.com/user-attachments/assets/ce2c5391-c01c-4c1f-953d-2ec1757a1a21)
+
+![TBrady_model_4](https://github.com/user-attachments/assets/56ba464d-9202-4747-98f1-847d0eb3f711)
