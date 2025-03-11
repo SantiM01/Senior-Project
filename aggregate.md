@@ -1,4 +1,4 @@
-# Final aggregated contextual information (tested using Tom Brady)
+# Final aggregated contextual information (tested using Tom Brady 2006-2022)
 
 ![TBrady_rush_plays_visualized](https://github.com/user-attachments/assets/5ece1cea-464c-405f-b783-cdafe70f35d9)
 
