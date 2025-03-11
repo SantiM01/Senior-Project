@@ -78,3 +78,7 @@ This bar chart compares Matt Ryan’s passing plays to his total plays. The two 
 ![single_player_rushplays_vs_totalplays](https://github.com/user-attachments/assets/ecdcfde4-feca-44e4-a3e4-c6fcc8650829)
 
 This bar chart compares Matt Ryan’s passing plays to his total plays. The two bars are almost the same height, showing that nearly all of his plays were passes. This shows us that Ryan prefers to pass first with very few rushing attempts.
+
+![final](https://github.com/user-attachments/assets/7747b2e2-3c7f-47ec-abd1-a1e9eea1bba7)
+
+
