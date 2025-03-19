@@ -1,3 +1,5 @@
+# Each model tested with all 292 quarterbacks from the 2006-2022 NFL seasons.
+
 ![model comp 1](https://github.com/user-attachments/assets/cd016ed3-e9f5-4e12-a54d-f253af22dabc)
 
 ![model comp 2](https://github.com/user-attachments/assets/baedf145-2505-4c24-a43c-4f2fc483c0f9)
