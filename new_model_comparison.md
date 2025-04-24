@@ -13,6 +13,7 @@
 
 ![rush_combined_mae_hist_non](https://github.com/user-attachments/assets/2f31bd9b-b546-456b-881f-2bac99090482)
 
+
 ## Game by game rush attempts autoregressive
 ![rush_scatter_mae_auto](https://github.com/user-attachments/assets/f2f26c90-fc3c-4205-92a9-b6206c770b15)
 
@@ -25,6 +26,7 @@
 ![rush_hist_mae_rand_for_auto](https://github.com/user-attachments/assets/63e24dd2-5222-4890-bfd0-63fbf7cede1f)
 
 ![rush_combined_mae_auto](https://github.com/user-attachments/assets/d2c7744c-68e2-40d7-b4ab-f74a3b9efedd)
+
 
 ## Game by game touchdowns non autoregressive
 ### Passing touchdowns
@@ -40,6 +42,7 @@
 
 ![pass_td_combined_hist_mae_non](https://github.com/user-attachments/assets/6c493982-c0d4-4816-b084-27d0eb22322b)
 
+
 ### Rushing touchdowns
 ![rush_td_scatter_mae_non](https://github.com/user-attachments/assets/9b33bb01-2c1f-4d7b-8a51-02bd2c8edb67)
 
@@ -53,6 +56,7 @@
 
 ![rush_td_combined_hist_mae_non](https://github.com/user-attachments/assets/cbb7f342-3ecc-4aa8-a098-9769a6752ac0)
 
+
 ### Total touchdowns
 ![total_td_scatter_mae_non](https://github.com/user-attachments/assets/5009e00b-23a7-456d-ac42-433cd638dbe8)
 
@@ -65,6 +69,7 @@
 ![total_td_hist_mae_rand_for_non](https://github.com/user-attachments/assets/2c733bc1-7a1d-4db8-8633-0720568aecf9)
 
 ![total_td_combined_mae_hist_non](https://github.com/user-attachments/assets/f9ba82d8-b7af-443c-adec-91188b4d70f8)
+
 
 ## Game by game touchdowns autoregressive
 ### Passing touchdowns
@@ -81,6 +86,7 @@
 
 ![pass_td_combined_hist_auto](https://github.com/user-attachments/assets/f1057939-1515-434a-8d79-d284f621f93a)
 
+
 ### Rushing touchdowns
 ![rush_td_scatter_mae_auto](https://github.com/user-attachments/assets/6d95a12c-0648-404e-ad01-9ba45571fbf9)
 
@@ -93,6 +99,7 @@
 ![rush_td_hist_mae_rand_for_auto](https://github.com/user-attachments/assets/feb2cfe3-c895-44c1-8979-9994e3f33514)
 
 ![rush_td_combined_hist_mae_auto](https://github.com/user-attachments/assets/31074cb5-44fd-40d9-b709-a2b945c71532)
+
 
 ### Total touchdowns
 
