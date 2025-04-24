@@ -14,4 +14,5 @@
 
 ![dummy hist](https://github.com/user-attachments/assets/eb6ca6b2-0e03-4765-b180-e147eafd8069)
 
-![combined hist](https://github.com/user-attachments/assets/a69b6fdb-5902-4c25-a57f-28ff61eb4494)
+![combined hist](![image](https://github.com/user-attachments/assets/c6328ecb-eba7-497b-a1e9-fa62edf9638e)
+
