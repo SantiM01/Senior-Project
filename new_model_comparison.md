@@ -25,6 +25,7 @@ This overlayed histogram gives a side by side look at how all three models perfo
 This scatter plot shows how well different models predicted game by game passing touchdowns for each quarterback without using previous game information (non-autoregressive). The Random Forest model (green) generally had the lowest prediction errors, staying tight across most QBs. The Linear Regression model (blue) had a few bigger misses, with some errors jumping above 5 touchdowns. Overall, Random Forest once again proved to be the most stable and accurate model for this task.
 
 ![rush_box_mae_auto](https://github.com/user-attachments/assets/d73dd82e-070e-4089-a1e0-add61f3607de)
+This box plot compares the distribution of mean absolute error across the three models. Random Forest not only had the lowest median error but also the smallest spread, making it the most consistent performer. Linear Regression had slightly higher errors and a few big outliers that hurt its reliability. Meanwhile, the Dummy Model performed worse overall, with more frequent and larger errors compared to the other two.
 
 ![rush_hist_mae_dummy_auto](https://github.com/user-attachments/assets/dc6eef83-a760-4f9b-bc1f-44e23aaee43a)
 
