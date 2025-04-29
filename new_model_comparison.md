@@ -2,6 +2,7 @@
 
 ## Game by game rush attempts non autoregressive
 ![scatter_rush_mae_non](https://github.com/user-attachments/assets/8e4131b4-650a-404c-8cb9-fd352efde8d9)
+This scatter plot shows how accurate each model is at predicting quarterback performance by comparing their mean absolute errors (MAE). You can see that the Random Forest model generally performs better, staying consistently low across most QBs. The Linear Regression model has a few major outliers, which means it struggled with some players. Overall, the Random Forest model looks like the most reliable option out of the three.
 
 ![rush_box_rush_mae_non](https://github.com/user-attachments/assets/cf25b3ac-c2d1-423b-907f-02f227ee7051)
 
