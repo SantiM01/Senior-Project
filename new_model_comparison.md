@@ -5,12 +5,13 @@
 This scatter plot shows how accurate each model is at predicting quarterback performance by comparing their mean absolute errors (MAE). You can see that the Random Forest model generally performs better, staying consistently low across most QBs. The Linear Regression model has a few major outliers, which means it struggled with some players. Overall, the Random Forest model looks like the most reliable option out of the three.
 
 ![rush_box_rush_mae_non](https://github.com/user-attachments/assets/cf25b3ac-c2d1-423b-907f-02f227ee7051)
-  This box plot compares how each model performed in terms of prediction error. The Random Forest model has the lowest and most consistent errors, this shows it’s the most reliable option. Linear Regression has a wider spread and a few outliers, including one very extreme case near 70, which really skews its performance. The Dummy Model stays relatively steady but isn’t as accurate, highlights the strength of using more advanced methods like the Random Forest.
+This box plot compares how each model performed in terms of prediction error. The Random Forest model has the lowest and most consistent errors, this shows it’s the most reliable option. Linear Regression has a wider spread and a few outliers, including one very extreme case near 70, which really skews its performance. The Dummy Model stays relatively steady but isn’t as accurate, highlights the strength of using more advanced methods like the Random Forest.
 
 ![rush_mae_hist_dummy_mae_non](https://github.com/user-attachments/assets/0297b5df-e57e-4ae5-90f8-89ae1abefe00)
 This histogram shows how often different Mean Absolute Error values occurred for our Dummy Model. Most of the predictions had low error values, with the majority between 0 and 3. That said, there are a few predictions with much higher errors, which stretch the distribution slightly to the right. Overall, the Dummy Model is simple and consistent, but not the most accurate option.
 
 ![rush_mae_hist_linear_mae_non](https://github.com/user-attachments/assets/ce34a7d0-f9af-45d3-a558-e9232cc47eaa)
+This histogram shows the Mean Absolute Error distribution for the Linear Regression model. Most of the predictions are at the lower end, between 0 and 3, which is a good sign overall. However, there are a few instances where the error jumps significantly sclose to 15 and beyond, which indicates the model struggles with certain outliers. While generally more accurate than a dummy model, Linear Regression clearly has moments where it makes errors.
 
 ![rush_mae_hist_rand_for_mae_non](https://github.com/user-attachments/assets/1671cccf-8fae-4c89-a286-c34e44f97c32)
 
