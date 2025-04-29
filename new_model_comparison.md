@@ -5,6 +5,7 @@
 This scatter plot shows how accurate each model is at predicting quarterback performance by comparing their mean absolute errors (MAE). You can see that the Random Forest model generally performs better, staying consistently low across most QBs. The Linear Regression model has a few major outliers, which means it struggled with some players. Overall, the Random Forest model looks like the most reliable option out of the three.
 
 ![rush_box_rush_mae_non](https://github.com/user-attachments/assets/cf25b3ac-c2d1-423b-907f-02f227ee7051)
+This box plot compares how each model performed in terms of prediction error. The Random Forest model has the lowest and most consistent errors, this shows it’s the most reliable option. Linear Regression has a wider spread and a few outliers, including one very extreme case near 70, which really skews its performance. The Dummy Model stays relatively steady but isn’t as accurate, highlights the strength of using more advanced methods like the Random Forest.
 
 ![rush_mae_hist_dummy_mae_non](https://github.com/user-attachments/assets/0297b5df-e57e-4ae5-90f8-89ae1abefe00)
 
