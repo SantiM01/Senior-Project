@@ -17,6 +17,7 @@ This histogram shows the Mean Absolute Error distribution for the Linear Regress
 This histogram shows the Mean Absolute Error distribution for the Random Forest model. Almost all the predictions are tightly packed between 0 and 3, with few predictions straying from that range. Compared to the other models, Random Forest shows the most consistent and accurate results, with very few large errors. It’s clear from this plot that Random Forest handled the predictions much better overall.
 
 ![rush_combined_mae_hist_non](https://github.com/user-attachments/assets/2f31bd9b-b546-456b-881f-2bac99090482)
+This overlayed histogram gives a side by side look at how all three models performed. You can see that the Random Forest model (green) consistently has lower errors and stays packed tightly near zero. The Linear Regression model (red) has mostly low errors too but shows a few bigger mistakes, stretching out to the right. The Dummy Model (blue) is the least accurate overall, with a wider spread of errors compared to the smarter models.
 
 
 ## Game by game rush attempts autoregressive
