@@ -28,6 +28,7 @@ This scatter plot shows how well different models predicted game by game passing
 This box plot compares the distribution of mean absolute error across the three models. Random Forest not only had the lowest median error but also the smallest spread, making it the most consistent performer. Linear Regression had slightly higher errors and a few big outliers that hurt its reliability. Meanwhile, the Dummy Model performed worse overall, with more frequent and larger errors compared to the other two.
 
 ![rush_hist_mae_dummy_auto](https://github.com/user-attachments/assets/dc6eef83-a760-4f9b-bc1f-44e23aaee43a)
+This histogram shows the distribution of Mean Absolute Error for the Dummy Model. Most of the predictions had low errors between 0 and 3, but there’s still a noticeable tail with a few higher errors up to around 10. While the Dummy Model is simple and provides a baseline, it's clear that more advanced models consistently do better. Overall, the Dummy Model’s performance is decent for comparison but not ideal for real predictions.
 
 ![rush_hist_mae_linear_auto](https://github.com/user-attachments/assets/7f4a75b3-dbcb-4cf0-b3bd-b561ec7f5c43)
 
