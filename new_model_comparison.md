@@ -14,6 +14,7 @@ This histogram shows how often different Mean Absolute Error values occurred for
 This histogram shows the Mean Absolute Error distribution for the Linear Regression model. Most of the predictions are at the lower end, between 0 and 3, which is a good sign overall. However, there are a few instances where the error jumps significantly sclose to 15 and beyond, which indicates the model struggles with certain outliers. While generally more accurate than a dummy model, Linear Regression clearly has moments where it makes errors.
 
 ![rush_mae_hist_rand_for_mae_non](https://github.com/user-attachments/assets/1671cccf-8fae-4c89-a286-c34e44f97c32)
+This histogram shows the Mean Absolute Error distribution for the Random Forest model. Almost all the predictions are tightly packed between 0 and 3, with few predictions straying from that range. Compared to the other models, Random Forest shows the most consistent and accurate results, with very few large errors. It’s clear from this plot that Random Forest handled the predictions much better overall.
 
 ![rush_combined_mae_hist_non](https://github.com/user-attachments/assets/2f31bd9b-b546-456b-881f-2bac99090482)
 
