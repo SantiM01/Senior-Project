@@ -22,6 +22,7 @@ This overlayed histogram gives a side by side look at how all three models perfo
 
 ## Game by game rush attempts autoregressive
 ![rush_scatter_mae_auto](https://github.com/user-attachments/assets/f2f26c90-fc3c-4205-92a9-b6206c770b15)
+This scatter plot shows how well different models predicted game by game passing touchdowns for each quarterback without using previous game information (non-autoregressive). The Random Forest model (green) generally had the lowest prediction errors, staying tight across most QBs. The Linear Regression model (blue) had a few bigger misses, with some errors jumping above 5 touchdowns. Overall, Random Forest once again proved to be the most stable and accurate model for this task.
 
 ![rush_box_mae_auto](https://github.com/user-attachments/assets/d73dd82e-070e-4089-a1e0-add61f3607de)
 
