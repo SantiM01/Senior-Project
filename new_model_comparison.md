@@ -41,17 +41,22 @@ This histogram shows the distribution of Mean Absolute Error for the Linear Regr
 ## Game by game touchdowns non autoregressive
 ### Passing touchdowns
 ![pass_td_scatter_mae_non](https://github.com/user-attachments/assets/2634bf5b-811d-4d86-96fc-c29a16604889)
+This scatter plot shows the quarterback's Mean Absolute Error distribution. In this case, Random Forest shows a tighter cluster for low errors while Linear Regression has larger outliers.
 
 ![pass_td_box_mae_non](https://github.com/user-attachments/assets/9f816f87-b20b-46a4-a838-650a42c45414)
+This box plot compares the Mean Absolute Error Distrubutions for each of the models. Once again, the Random Forest model maintains low errors while Linear Regression and Dummy Models show more frequent errors.
 
 ![pass_td_hist_mae_dummy_non](https://github.com/user-attachments/assets/a83755c8-b9ec-4ace-b28b-6fd228e849f1)
+This histogram shows the Dummy Models MAE distribution clusters. The results stay consistent between 0 and 2, but still remains wider than Random Forest.
 
 ![pass_td_hist_mae_linear_non](https://github.com/user-attachments/assets/f32b6e2c-fd0d-4c75-9b7c-b80915d9b8ea)
+This histograms shows MAE distributions for Linear Regression. Errors seem to remain low. However, there is a tail that stretches right which may indicate that there are the occasional poor predictions when compared to the other models.
 
 ![pass_td_hist_mae_rand_for_non](https://github.com/user-attachments/assets/e321d72a-b0ec-46b8-99dc-417ba8f25139)
+In this Histogram, predictions for Random Forest are tightly packed which would mean that there are almost no major outliers, supporting it's consistent and acurate predictions.
 
 ![pass_td_combined_hist_mae_non](https://github.com/user-attachments/assets/6c493982-c0d4-4816-b084-27d0eb22322b)
-
+This combined histogram compares each of the models side by side to show all error distributions. Random Forest maintained an overall low error distribution, surpassing both the linear regression and dummy models.
 
 ### Rushing touchdowns
 ![rush_td_scatter_mae_non](https://github.com/user-attachments/assets/9b33bb01-2c1f-4d7b-8a51-02bd2c8edb67)
