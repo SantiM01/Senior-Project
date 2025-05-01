@@ -37,6 +37,7 @@ This histogram shows the distribution of Mean Absolute Error for the Linear Regr
 This histogram of the Random Forest model's MAE shows a tight and impressive performance. Nearly all predictions fall below an error of 3, with most errors densely concentrated near 0. There are no extreme outliers, which highlights the model's consistency and robustness. Compared to the Dummy and Linear Regression models, Random Forest clearly delivers the most accurate and reliable results.
 
 ![rush_combined_mae_auto](https://github.com/user-attachments/assets/d2c7744c-68e2-40d7-b4ab-f74a3b9efedd)
+This overlayed histogram clearly shows how the three models compare in terms of prediction accuracy. The Random Forest model (green) outperforms the others, with its MAE values tightly concentrated near zero. Linear Regression (red) also does reasonably well but has a few outliers with higher errors. The Dummy Model (blue), while providing a basic benchmark, shows more frequent and wider errors, highlighting the advantage of using smarter models like Random Forest.
 
 
 ## Game by game touchdowns non autoregressive
