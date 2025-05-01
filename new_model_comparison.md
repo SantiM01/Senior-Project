@@ -34,6 +34,7 @@ This histogram shows the distribution of Mean Absolute Error for the Dummy Model
 This histogram shows the distribution of Mean Absolute Error for the Linear Regression model. Most of the predictions fall within the 0 to 3 range, showing good overall performance. However, there are a few outliers with much larger errors, which highlight that Linear Regression occasionally struggles with certain cases. Even with some misses, it generally performs better than the Dummy Model.
 
 ![rush_hist_mae_rand_for_auto](https://github.com/user-attachments/assets/63e24dd2-5222-4890-bfd0-63fbf7cede1f)
+This histogram of the Random Forest model's MAE shows a tight and impressive performance. Nearly all predictions fall below an error of 3, with most errors densely concentrated near 0. There are no extreme outliers, which highlights the model's consistency and robustness. Compared to the Dummy and Linear Regression models, Random Forest clearly delivers the most accurate and reliable results.
 
 ![rush_combined_mae_auto](https://github.com/user-attachments/assets/d2c7744c-68e2-40d7-b4ab-f74a3b9efedd)
 
