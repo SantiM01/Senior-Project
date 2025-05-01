@@ -65,6 +65,7 @@ This combined histogram compares each of the models side by side to show all err
 This scatter plot breaks down the Mean Absolute Error (MAE) for each quarterback across three models. The Random Forest model (green) consistently stays low and tightly grouped, showing strong, reliable performance across most QBs. Linear Regression (blue) occasionally spikes, showing it's more prone to outliers, while the Dummy Model (red) generally performs worse and shows more variation. Overall, this confirms that Random Forest delivers the most accurate and stable predictions in this non-autoregressive setup.
 
 ![rush_td_box_mae_non](https://github.com/user-attachments/assets/3129a7eb-817a-4730-bc75-d1fdc967f270)
+This box plot compares the MAE distributions for each model and reinforces the earlier findings. The Random Forest model has the lowest median error and the smallest spread, showing consistent accuracy with minimal outliers. Linear Regression performs decently but includes several outliers, including one that spikes above 6, suggesting instability in some predictions. The Dummy Model remains the weakest, with a higher overall spread and more frequent larger errors.
 
 ![rush_td_mae_hist_dummy_non](https://github.com/user-attachments/assets/63910ba1-c31d-42e8-91da-a135c547ba7a)
 
