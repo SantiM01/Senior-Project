@@ -62,6 +62,7 @@ This combined histogram compares each of the models side by side to show all err
 
 ### Rushing touchdowns
 ![rush_td_scatter_mae_non](https://github.com/user-attachments/assets/9b33bb01-2c1f-4d7b-8a51-02bd2c8edb67)
+This scatter plot breaks down the Mean Absolute Error (MAE) for each quarterback across three models. The Random Forest model (green) consistently stays low and tightly grouped, showing strong, reliable performance across most QBs. Linear Regression (blue) occasionally spikes, showing it's more prone to outliers, while the Dummy Model (red) generally performs worse and shows more variation. Overall, this confirms that Random Forest delivers the most accurate and stable predictions in this non-autoregressive setup.
 
 ![rush_td_box_mae_non](https://github.com/user-attachments/assets/3129a7eb-817a-4730-bc75-d1fdc967f270)
 
