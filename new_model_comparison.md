@@ -77,6 +77,7 @@ This histogram of the Linear Regression model shows that nearly all MAE values a
 The histogram for the Random Forest model shows it’s doing a great job—most of the prediction errors are really small and packed close to zero. That means it’s not just accurate, but also super consistent across the board. Unlike the other models, there aren’t any big spikes or outliers, which makes it a really dependable choice. If you're picking a model based on performance, Random Forest is clearly the one you can count on.
 
 ![rush_td_combined_hist_mae_non](https://github.com/user-attachments/assets/cbb7f342-3ecc-4aa8-a098-9769a6752ac0)
+This overlayed histogram gives us a side-by-side look at how the three models performed. All of them have most of their prediction errors clustered around low values, which is a good start—but not all low errors are created equal. Random Forest (green) stays super tight and consistent, barely budging beyond small MAE values. Linear Regression (red) also does well, though it sneaks in a few more high-error cases. The Dummy Model (blue) holds its own near the baseline but lacks the accuracy and sharpness of the smarter models. Overall, Random Forest leads the pack with the most reliable performance.
 
 
 ### Total touchdowns
