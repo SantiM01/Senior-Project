@@ -74,6 +74,7 @@ This histogram for the Dummy Model shows an even clearer concentration of MAE va
 This histogram of the Linear Regression model shows that nearly all MAE values are tightly clustered close to zero, which is a good sign. However, there's a small tail indicating occasional larger errors, hinting that while the model is generally reliable, it can still misfire in some cases. It performs much better than the Dummy Model overall but still doesn’t match the consistency that we see in the Random Forest. The visual confirms Linear Regression is a solid option which is more advanced than a baseline, but not quite the best.
 
 ![rush_td_mae_hist_rand_for_non](https://github.com/user-attachments/assets/6e4c03f6-2bc4-4134-abad-f16bd81c7de6)
+The histogram for the Random Forest model shows it’s doing a great job—most of the prediction errors are really small and packed close to zero. That means it’s not just accurate, but also super consistent across the board. Unlike the other models, there aren’t any big spikes or outliers, which makes it a really dependable choice. If you're picking a model based on performance, Random Forest is clearly the one you can count on.
 
 ![rush_td_combined_hist_mae_non](https://github.com/user-attachments/assets/cbb7f342-3ecc-4aa8-a098-9769a6752ac0)
 
