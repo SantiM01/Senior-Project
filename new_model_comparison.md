@@ -71,6 +71,7 @@ This box plot compares the MAE distributions for each model and reinforces the e
 This histogram for the Dummy Model shows an even clearer concentration of MAE values tightly packed near zero. While the frequency of low-error predictions is high, it’s important to note that this baseline model lacks the intelligence to adapt to individual quarterbacks or game conditions. Although it's consistent, it’s not particularly accurate compared to the smarter models. This reinforces the need for more advanced approaches like Random Forest or even Linear Regression when precision matters.
 
 ![rush_td_mae_hist_linear_non](https://github.com/user-attachments/assets/af1c554d-fde3-4b09-938f-5ecf6337edf9)
+This histogram of the Linear Regression model shows that nearly all MAE values are tightly clustered close to zero, which is a good sign. However, there's a small tail indicating occasional larger errors, hinting that while the model is generally reliable, it can still misfire in some cases. It performs much better than the Dummy Model overall but still doesn’t match the consistency that we see in the Random Forest. The visual confirms Linear Regression is a solid option which is more advanced than a baseline, but not quite the best.
 
 ![rush_td_mae_hist_rand_for_non](https://github.com/user-attachments/assets/6e4c03f6-2bc4-4134-abad-f16bd81c7de6)
 
